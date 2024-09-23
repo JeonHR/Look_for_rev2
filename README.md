@@ -13,5 +13,5 @@ Improved to move and copy Big Data
   - find data for each element as a tuple
   - Enables multi-thread parallel processing
 - Resolving with lambda funtion if multiple arguments values
-  - 
+  - Parallel processing enables faster processing
 
