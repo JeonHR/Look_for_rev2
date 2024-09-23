@@ -9,11 +9,9 @@ Improved to move and copy Big Data
 #### Knowledge
 - Understanding the python code (ThreadPoolExecutor)
   - Improved speed by performing parallel operations
-- Studying the logging system
-  - Recorded logs allow for quick troubleshooting
-- Create conditional statements for checking the execution condition
-  - detected the image pop-up through pyautogui import
-  - Formed a step-by-step condition for executing a program
-- Improve the understanding of Windows scheduler's systems
-  - Learn about setting the Windows scheduler
-  - Debugging on the cause of error in windows scheduler
+- Making the List data by listing compliance
+  - find data for each element as a tuple
+  - Enables multi-thread parallel processing
+- Resolving with lambda funtion if multiple arguments values
+  - 
+
